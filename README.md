@@ -11,3 +11,6 @@ Cloning Momentum App (https://momentumdash.com/) w/ vanilla `Javascript`.
 
 ### Acknowledgement
 Thanks to https://nomadcoders.co
+
+### Image credits
+Image credits belongs to me. Contact me in any event of re-use.
